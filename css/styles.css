@@ -765,8 +765,8 @@ body {
     margin-top: 0;
     margin-bottom: 0;
     transform: rotate(-10deg);
-    position: relative;
-    left: 5%;
+    position: absolute;
+   
 }
 
 .s-hero__content h3 {
@@ -780,8 +780,8 @@ body {
     margin-right: auto;
     margin-bottom: var(--vspace-1);
     width: 50%;
-    position: relative;
-    left: 5%;
+    position: absolute;
+    
 
 }
 }
